@@ -1,0 +1,38 @@
+[
+  {
+    "query": "What is the capital of France?",
+    "response": "The capital of France is Paris."
+  },
+  {
+    "query": "Explain cosine similarity.",
+    "response": "Cosine similarity measures the cosine of the angle between two vectors, indicating orientation similarity."
+  },
+  {
+    "query": "Best way to boil eggs?",
+    "response": "Place eggs in cold water, bring to a boil, then simmer 9-12 minutes and cool in ice bath."
+  },
+  {
+    "query": "What is FAISS?",
+    "response": "FAISS is a library by Facebook AI for efficient similarity search and clustering of dense vectors."
+  },
+  {
+    "query": "Who's Ada Lovelace?",
+    "response": "Ada Lovelace was a 19th-century mathematician often considered the first computer programmer."
+  },
+  {
+    "query": "Who's Ada carpenter",
+    "response": "[BACKEND] Dummy response for: 'Who's Ada carpenter'"
+  },
+  {
+    "query": "Who's Ada Vishnu Dinesh",
+    "response": "[BACKEND] Dummy response for: 'Who's Ada Vishnu Dinesh'"
+  },
+  {
+    "query": "Best way to cook chicken",
+    "response": "[BACKEND] Dummy response for: 'Best way to cook chicken'"
+  },
+  {
+    "query": "what is your name",
+    "response": "[BACKEND] Dummy response for: 'what is your name'"
+  }
+]
